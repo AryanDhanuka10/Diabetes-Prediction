@@ -70,5 +70,4 @@ The app accepts the following inputs:
 
 ## Contributing
 Contributions are welcome! Please open an issue or create a pull request for suggestions and improvements.
-# Diabetes_Prediction
-# Diabetes_Prediction
+
